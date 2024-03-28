@@ -1,10 +1,9 @@
-# About Me:
-
 <h3 align="center">Fullstack Developer</h3>
-- 🔭 I’m currently working on **Improve myself.** <br>
-- 🌱 I’m currently learning **Golang, Vue**<br>
-- 📫 How to reach me **hmanzano1012@gmail.com**<br>
-- ⚡ Fun fact **I love TWICE**<br>
+
+- 🔭 I’m currently working on **Improve myself.**
+- 🌱 I’m currently learning **Golang, Vue**
+- 📫 How to reach me **hmanzano1012@gmail.com**
+- ⚡ Fun fact **I love TWICE**
 
 ## 🌐 Socials:
 
