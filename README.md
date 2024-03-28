@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack Developer</h3>
+<kjh3 align="center">Fullstack Developer</h3>
 
 - 🔭 I’m currently working on **Improve myself.**
 - 🌱 I’m currently learning **Golang, Vue**
@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmanzano1012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harold-steve-manzano-154803145/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@hmanzano1012)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmanzano1012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harold-steve-manzano-154803145/) [![X](https://img.shields.io/badge/Twitter-%23323331.svg?logo=x&logoColor=white)](https://twitter.com/@hmanzano1012)
 
 # 💻 Tech Stack:
 
