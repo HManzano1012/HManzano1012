@@ -15,4 +15,4 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmanzano1012&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmanzano1012&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
