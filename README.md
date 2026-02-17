@@ -69,14 +69,3 @@ Software Developer specialized in back-end and full-stack development, with expe
 
 ---
 
-<div align="center">
-
-*"One in a million, I'm the one"* ✨
-
-**Currently vibing to:**
-
-🎵 **TROUBLE** - TWICE  
-🎵 **CRUEL** - TWICE  
-🎵 **GET LOUD** - TWICE  
-
-</div>
